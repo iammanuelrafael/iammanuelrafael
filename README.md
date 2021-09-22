@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 
-**Hi there, I'm Manuel Rafael Sihombing👋 16 years old from Indonesia**
+**Hi there, I'm Manuel Rafael Sihombing 👋 16 years old from Indonesia**
 
 - 🔭 I’m currently working on Discord ChatBot & Python Calculator
 - 🌱 I’m currently learning Python & Java for Android Development

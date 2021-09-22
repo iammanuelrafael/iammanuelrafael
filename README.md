@@ -1,4 +1,4 @@
-**Hello, I'm Manuel Rafael 👋**
+**Hi there, I'm Manuel Rafael 👋**
 
 - 🔭 I’m currently working on Discord Chatbots
 - 🌱 I’m currently learning Python & Java for Android Development

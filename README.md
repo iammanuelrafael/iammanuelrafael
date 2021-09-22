@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun Fact: I love to play video games
 
-<img src="https://github-readme-stats.vercel.app/api?username=iammanuelrafael-prog&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=iammanuelrafael&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">

@@ -1,4 +1,4 @@
-<h1>About Me✨</h1>
+<h1>About Me</h1>
 
 **Hi there, I'm Manuel Rafael Sihombing👋 16 years old from Indonesia**
 

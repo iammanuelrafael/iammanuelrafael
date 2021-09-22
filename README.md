@@ -2,7 +2,7 @@
 
 **Hi there, I'm Manuel Rafael Sihombing👋 16 years old from Indonesia**
 
-- 🔭 I’m currently working on Discord Chatbots & Python Calculator
+- 🔭 I’m currently working on Discord ChatBot & Python Calculator
 - 🌱 I’m currently learning Python & Java for Android Development
 - 🤔 I’m looking for help with learning Android Development
 - 💬 Ask me about any tech related stuff

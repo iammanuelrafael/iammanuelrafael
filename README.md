@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with learning Android Development
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Twitter - [@iammanuelrafael](https://twitter.com/iammanuelrafael)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun Fact: I like to play video games
 
 <img src="https://github-readme-stats.vercel.app/api?username=iammanuelrafael&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">

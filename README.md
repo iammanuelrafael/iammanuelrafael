@@ -3,8 +3,8 @@
 **Hi there, I'm Manuel Rafael Sihombing 👋 16 years old from Indonesia**
 
 - 🔭 I’m currently working on Discord ChatBot & Python Calculator
-- 🌱 I’m currently learning Python & Java for Android Development
-- 🤔 I’m looking for help with learning Android Development
+- 🌱 I’m currently learning Python & Java
+- 🤔 I’m looking for help with learning Android Development (Flutter & Dart)
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Twitter - [@iammanuelrafael](https://twitter.com/iammanuelrafael)
 - 😄 Pronouns: He/Him/His
